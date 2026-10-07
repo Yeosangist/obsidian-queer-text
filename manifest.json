@@ -1,0 +1,9 @@
+{
+  "id": "queer-flag-text",
+  "name": "Queer Flag Highlighter",
+  "version": "1.0.0",
+  "description": "Colours the words of queer identities with their pride flags.",
+  "author": "Yeosangist",
+  "authorUrl": "https://githubcom/Yeosangist/obsidian-queer-text",
+  "isDesktopOnly": false
+}
